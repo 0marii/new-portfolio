@@ -2,8 +2,10 @@
 
 Personal portfolio and browser games hub for **Mohammed Al-Omari** (Backend Software Engineer). A static, framework-free site built with vanilla HTML, CSS, and JavaScript — optimized for SEO, performance, offline play, and deployment on Vercel.
 
-**Live site:** [Main website](https://omari.vercel.app/)  
-**Games hub:** [gaemes website](https://omari.vercel.app/games)
+**Live site Link 1:** [Main website](https://omari.vercel.app/)  
+**Live site Link 2:** [Main website](https://0marii.github.io/Omari_portfolio/)  
+**Games hub Link 1:** [gaemes website](https://omari.vercel.app/games)
+**Games hub Link 2:** [gaemes website](https://0marii.github.io/Omari_portfolio/games)
 
 ---
 
